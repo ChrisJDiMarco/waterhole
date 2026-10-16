@@ -1,0 +1,27 @@
+node_modules/
+.next/
+.vercel/
+.wrangler/
+.cache/
+.turbo/
+.parcel-cache/
+coverage/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+*.log
+.env
+.env.*
+*.pem
+*.p12
+*.key
+credentials*.json
+auth.json
+*.dmg
+*.pkg
+
+# Apple reference assets (downloaded by scripts/prepare-assets.py) and render output
+/assets/
+/promo/
